@@ -1,0 +1,85 @@
+Metadata-Version: 2.1
+Name: spyder
+Version: 3.3.3
+Summary: The Scientific Python Development Environment
+Home-page: https://www.spyder-ide.org/
+Author: The Spyder Project Contributors
+Author-email: spyderlib@googlegroups.com
+License: MIT
+Download-URL: https://www.spyder-ide.org/#fh5co-download
+Keywords: PyQt5 editor console widgets IDE science data analysis IPython
+Platform: Windows
+Platform: Linux
+Platform: Mac OS-X
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Software Development :: Widget Sets
+Requires-Dist: cloudpickle
+Requires-Dist: rope (>=0.10.5)
+Requires-Dist: jedi (>=0.9.0)
+Requires-Dist: pyflakes
+Requires-Dist: pygments (>=2.0)
+Requires-Dist: qtconsole (>=4.2.0)
+Requires-Dist: nbconvert
+Requires-Dist: sphinx
+Requires-Dist: pycodestyle
+Requires-Dist: pylint
+Requires-Dist: psutil
+Requires-Dist: qtawesome (>=0.4.1)
+Requires-Dist: qtpy (>=1.5.0)
+Requires-Dist: pickleshare
+Requires-Dist: pyzmq
+Requires-Dist: chardet (>=2.0.0)
+Requires-Dist: numpydoc
+Requires-Dist: spyder-kernels (<1.0,>=0.4.2)
+Requires-Dist: pyqt5 (<=5.12) ; python_version >= "3"
+Requires-Dist: keyring ; sys_platform != "linux2"
+Provides-Extra: test
+Requires-Dist: pytest (<4.1) ; extra == 'test'
+Requires-Dist: pytest-qt ; extra == 'test'
+Requires-Dist: pytest-mock ; extra == 'test'
+Requires-Dist: pytest-cov ; extra == 'test'
+Requires-Dist: pytest-xvfb ; extra == 'test'
+Requires-Dist: mock ; extra == 'test'
+Requires-Dist: flaky ; extra == 'test'
+Requires-Dist: pandas ; extra == 'test'
+Requires-Dist: scipy ; extra == 'test'
+Requires-Dist: sympy ; extra == 'test'
+Requires-Dist: pillow ; extra == 'test'
+Requires-Dist: matplotlib ; extra == 'test'
+Requires-Dist: cython ; extra == 'test'
+Requires-Dist: mock ; (python_version == "2.7") and extra == 'test'
+
+Spyder is a powerful scientific environment written in Python, for Python,
+and designed by and for scientists, engineers and data analysts.
+It features a unique combination of the advanced editing, analysis, debugging
+and profiling functionality of a comprehensive development tool with the data
+exploration, interactive execution, deep inspection and beautiful visualization
+capabilities of a scientific package.
+
+Furthermore, Spyder offers built-in integration with many popular
+scientific packages, including NumPy, SciPy, Pandas, IPython, QtConsole,
+Matplotlib, SymPy, and more.
+
+Beyond its many built-in features, Spyder's abilities can be extended even
+further via first- and third-party plugins.
+
+Spyder can also be used as a PyQt5 extension library, allowing you to build
+upon its functionality and embed its components, such as the interactive
+console or advanced editor, in your own software.
+
+

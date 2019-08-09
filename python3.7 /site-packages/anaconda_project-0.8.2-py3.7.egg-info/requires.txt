@@ -1,0 +1,4 @@
+anaconda-client
+requests
+ruamel_yaml
+tornado>=4.2

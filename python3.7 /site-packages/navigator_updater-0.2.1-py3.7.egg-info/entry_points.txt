@@ -1,0 +1,3 @@
+[gui_scripts]
+navigator-updater = navigator_updater.app.main:main
+

@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+sortedcontainers/__init__.py
+sortedcontainers/sorteddict.py
+sortedcontainers/sortedlist.py
+sortedcontainers/sortedset.py
+sortedcontainers.egg-info/PKG-INFO
+sortedcontainers.egg-info/SOURCES.txt
+sortedcontainers.egg-info/dependency_links.txt
+sortedcontainers.egg-info/top_level.txt

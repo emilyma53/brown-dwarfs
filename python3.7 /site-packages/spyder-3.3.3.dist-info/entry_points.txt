@@ -1,0 +1,3 @@
+[gui_scripts]
+spyder3 = spyder.app.start:main
+

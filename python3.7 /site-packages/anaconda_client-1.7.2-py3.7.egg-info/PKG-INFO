@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: anaconda-client
+Version: 1.7.2
+Summary: Anaconda Cloud command line client library
+Home-page: http://github.com/Anaconda-Platform/anaconda-client
+Author: Sean Ross-Ross
+Author-email: srossross@gmail.com
+License: BSD License
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python

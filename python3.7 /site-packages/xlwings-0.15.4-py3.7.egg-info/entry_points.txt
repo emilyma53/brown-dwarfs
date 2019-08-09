@@ -1,0 +1,3 @@
+[console_scripts]
+xlwings = xlwings.command_line:main
+

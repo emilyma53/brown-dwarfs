@@ -1,0 +1,26 @@
+Metadata-Version: 1.1
+Name: lief
+Version: 0.9.0
+Summary: LIEF is a library to instrument executable formats
+Home-page: https://lief.quarkslab.com
+Author: Romain Thomas
+Author-email: rthomas@quarkslab.com
+License: Apache 2.0
+Description: UNKNOWN
+Keywords: parser,elf,pe,macho
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Programming Language :: C++
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Security
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+Classifier: Topic :: Software Development :: Build Tools

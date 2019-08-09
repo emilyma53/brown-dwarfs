@@ -1,0 +1,48 @@
+Metadata-Version: 1.1
+Name: xlwings
+Version: 0.15.4
+Summary: Make Excel fly: Interact with Excel from Python and vice versa.
+Home-page: http://xlwings.org
+Author: Zoomer Analytics LLC
+Author-email: felix.zumstein@zoomeranalytics.com
+License: BSD 3-clause
+Description: xlwings - Make Excel fly with Python!
+        =====================================
+        
+        xlwings is a `BSD-licensed <http://opensource.org/licenses/BSD-3-Clause>`_ Python library that makes it easy to call
+        Python from Excel and vice versa:
+        
+        * **Scripting**: Automate/interact with Excel from Python using a syntax that is close to VBA.
+        * **Macros**: Replace your messy VBA macros with clean and powerful Python code.
+        * **UDFs**: Write User Defined Functions (UDFs) in Python (Windows only).
+        * **REST API**: Expose your Excel workbooks via REST API.
+        
+        **Numpy arrays** and **Pandas Series/DataFrames** are fully supported. xlwings-powered workbooks are easy to distribute and work
+        on **Windows** and **Mac**.
+        
+        Links
+        -----
+        
+        * Homepage: https://www.xlwings.org
+        * Quickstart: https://docs.xlwings.org/en/stable/quickstart.html
+        * Documentation: https://docs.xlwings.org
+        * Video Course: https://training.zoomeranalytics.com/p/xlwings
+        * Source Code: https://github.com/zoomeranalytics/xlwings
+        
+        
+        xltrail
+        -------
+        
+        The Excel add-in is version controlled with `xltrail <https://www.xltrail.com>`_. You can see the diffs
+        `here <https://app.xltrail.com/#/?path=github.com%2FZoomerAnalytics%2Fxlwings.git&branch=master&public=true>`_.
+Keywords: xls,excel,spreadsheet,workbook,vba,macro
+Platform: Windows
+Platform: Mac OS X
+Classifier: Development Status :: 4 - Beta
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Office/Business :: Financial :: Spreadsheet
+Classifier: License :: OSI Approved :: BSD License

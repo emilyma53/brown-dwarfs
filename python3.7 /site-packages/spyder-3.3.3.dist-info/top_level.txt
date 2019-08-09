@@ -1,0 +1,6 @@
+spyder
+spyder_breakpoints
+spyder_io_dcm
+spyder_io_hdf5
+spyder_profiler
+spyder_pylint

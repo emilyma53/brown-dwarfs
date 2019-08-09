@@ -1,0 +1,373 @@
+[
+  {
+    "tags": [
+      "documentation"
+    ],
+    "title": "Python Tutorial",
+    "uri": "https://docs.python.org/3/tutorial/index.html",
+    "image_file": "python.png",
+    "summary": "Official Python beginners' guide for first-time users.",
+    "banner": "https://www.python.org/static/opengraph-icon-200x200.png"
+  },
+  {
+    "tags": [
+      "documentation"
+    ],
+    "title": "Python Reference",
+    "uri": "https://docs.python.org/3/library/index.html",
+    "image_file": "python.png",
+    "summary": "Official, detailed, documentation to the whole of the standard python library.",
+    "banner": "https://www.python.org/static/opengraph-icon-200x200.png"
+  },
+  {
+    "tags": [
+      "training"
+    ],
+    "title": "Python Training by Anaconda",
+    "uri": "https://www.anaconda.com/training/",
+    "image_file": "anaconda.png",
+    "summary": "Take Your Data Science Skills to the Next Level with Anaconda Academy",
+    "banner": "https://www.continuum.io/sites/default/files/anaconda_logo.png"
+  },
+  {
+    "tags": [
+      "documentation"
+    ],
+    "title": "Anaconda Package List",
+    "uri": "https://docs.anaconda.com/anaconda/packages/pkg-docs",
+    "image_file": "anaconda.png",
+    "summary": "Links to documentation for all of the packages installed with or available in Anaconda.",
+    "banner": "https://www.continuum.io/sites/default/files/anaconda_logo.png"
+  },
+  {
+    "tags": [
+      "documentation"
+    ],
+    "title": "Pandas Documentation",
+    "uri": "http://pandas.pydata.org/",
+    "image_file": "pandas.png",
+    "summary": "Structured data manipulation, particularly tabular. Allows SQL-style operations and a wide range of visualisations.",
+    "banner": "http://www.numfocus.org/uploads/6/0/6/9/60696727/7094935_orig.png"
+  },
+  {
+    "tags": [
+      "documentation"
+    ],
+    "title": "Numpy Documentation",
+    "uri": "http://www.numpy.org/",
+    "image_file": "numpy.png",
+    "summary": "NumPy is the fundamental package for scientific computing with Python. It contains among other things: a powerful N-dimensional array object; sophisticated (broadcasting) functions; tools for integrating C/C++ and Fortran code; useful linear algebra, Fourier transform, and random number capabilities",
+    "banner": "http://www.numfocus.org/uploads/6/0/6/9/60696727/3444089.png"
+  },
+  {
+    "tags": [
+      "documentation"
+    ],
+    "title": "Scipy Documentation",
+    "uri": "https://docs.scipy.org/doc/",
+    "image_file": "scipy.png",
+    "summary": "Scientific routines for python. Many user-friendly and efficient numerical routines such as routines for numerical integration and optimization.",
+    "banner": "http://scipy.org/_static/images/scipy_med.png"
+  },
+  {
+    "tags": [
+      "documentation"
+    ],
+    "title": "Matplotlib Documentation",
+    "uri": "https://matplotlib.org",
+    "image_file": "matplotlib.png",
+    "summary": "The most popular data vidualisation library for python, producing publication-quality 2D and 3D output for a variety of backends.",
+    "banner": "http://www.numfocus.org/uploads/6/0/6/9/60696727/904538_orig.png"
+  },
+  {
+    "tags": [
+      "social"
+    ],
+    "title": "Anaconda on Twitter",
+    "uri": "https://twitter.com/AnacondaInc",
+    "image_file": "continuum_twitter.jpg",
+    "summary": "Collected tweets across a wide range of python and data-science.",
+    "banner": "https://pbs.twimg.com/profile_images/624030560457850880/17LrFnZt_400x400.png"
+  },
+  {
+    "tags": [
+      "social"
+    ],
+    "title": "Planet Scipy",
+    "uri": "https://planet.scipy.org/",
+    "image_file": "planet_scipy.png",
+    "summary": "Blogs relating to science and data analysis in the python ecosystem.",
+    "banner": "http://scipy.org/_static/images/documentation.png"
+  },
+  {
+    "tags": [
+      "event"
+    ],
+    "title": "SciPy Conferences",
+    "uri": "http://conference.scipy.org/",
+    "image_file": "scipy.png",
+    "summary": "The annual SciPy Conferences allows participants from academic, commercial, and governmental organizations to: showcase their latest Scientific Python projects; learn from skilled users and developers; and collaborate on code development.",
+    "banner": "https://docs.scipy.org/doc/scipy-0.10.1/reference/_static/scipyshiny_small.png"
+  },
+  {
+    "tags": [
+      "social"
+    ],
+    "title": "Data Science Central",
+    "uri": "http://feeds.feedburner.com/FeaturedBlogPosts-DataScienceCentral",
+    "image_file": "data_science.jpg",
+    "summary": "Featured Blog Posts - Data Science Central",
+    "banner": "https://pbs.twimg.com/profile_images/1678023092/DSC_Logo_400x400.jpg"
+  },
+  {
+    "tags": [
+      "social"
+    ],
+    "title": "Anaconda Company Blog",
+    "uri": "https://www.anaconda.com/blog/company-blog/",
+    "image_file": "anaconda.png",
+    "summary": "The official blog of Anaconda, Inc.",
+    "banner": "https://www.continuum.io/sites/default/files/anaconda_logo.png"
+  },
+  {
+    "tags": [
+      "forum"
+    ],
+    "title": "Anaconda Forum",
+    "uri": "https://groups.google.com/a/continuum.io/forum/#!forum/anaconda",
+    "image_file": "anaconda.png",
+    "summary": "For questions relating to the Anaconda Platform in general",
+    "banner": "https://www.continuum.io/sites/default/files/anaconda_logo.png"
+  },
+  {
+    "tags": [
+      "forum"
+    ],
+    "title": "Stack Overflow: Python",
+    "uri": "https://stackoverflow.com/questions/tagged/python",
+    "image_file": "stackoverflow.png",
+    "summary": "Post questions and mine the knowledge of the best of the open-source community.",
+    "banner": "http://cdn.sstatic.net/stackoverflow/company/img/logos/so/so-icon.png?v=c78bd457575a"
+  },
+  {
+    "tags": [
+      "forum"
+    ],
+    "title": "Conda Forum",
+    "uri": "https://groups.google.com/a/continuum.io/forum/#!forum/conda",
+    "image_file": "anaconda.png",
+    "summary": "For questions about Anaconda's package manager, Conda",
+    "banner": "https://www.continuum.io/sites/default/files/anaconda_logo.png"
+  },
+  {
+    "tags": [
+      "documentation"
+    ],
+    "title": "Bokeh User Guide",
+    "uri": "http://bokeh.pydata.org/en/latest/docs/user_guide.html",
+    "image_file": "bokeh.png",
+    "image_file": "bokeh.png",
+    "summary": "Bokeh is a Python interactive visualization library that targets modern web browsers for presentation. Bokeh provides elegant, concise construction of novel graphics with high-performance interactivity over very large or streaming datasets in a quick and easy way.",
+    "banner": "http://bokeh.pydata.org/en/latest/_static/images/logo.png"
+  },
+  {
+    "tags": [
+      "forum"
+    ],
+    "title": "Bokeh Forum",
+    "uri": "https://groups.google.com/a/continuum.io/forum/#!forum/bokeh",
+    "image_file": "bokeh.png",
+    "summary": "This mailing list is for users (and developers) to ask and answer questions regarding usage of Bokeh, including related projects such as rbokeh, bokeh.jl, and bokeh-scala.",
+    "banner": "http://bokeh.pydata.org/en/latest/_static/images/logo.png"
+  },
+  {
+    "tags": [
+      "forum"
+    ],
+    "title": "Blaze Dev Forum",
+    "uri": "https://groups.google.com/a/continuum.io/forum/#!forum/blaze-dev",
+    "image_file": "blaze.png",
+    "summary": "Questions and answers for people interested in developing Blaze, the multi-backend computation expression engine.",
+    "banner": "http://blaze.pydata.org/images/blaze.png"
+  },
+  {
+    "tags": [
+      "forum"
+    ],
+    "title": "Numba Dev Forum",
+    "uri": "https://groups.google.com/a/continuum.io/forum/#!forum/numba-users",
+    "image_file": "numba_dev_forum.png",
+    "summary": "Questions and answers for people interested in developing Numba, the high-performance just-in-time compiler for python.",
+    "banner": "http://gnosis.cx/tmp/developer-dark.png"
+  },
+  {
+    "tags": [
+      "forum"
+    ],
+    "title": "Matplotlib Forum",
+    "uri": "https://sourceforge.net/p/matplotlib/mailman/",
+    "image_file": "matplotlib.png",
+    "summary": "Discussion, announcements, and development related to using matplotlib",
+    "banner": "http://www.numfocus.org/uploads/6/0/6/9/60696727/904538_orig.png"
+  },
+  {
+    "tags": [
+      "forum"
+    ],
+    "title": "NumPy and SciPy Project Mailing Lists",
+    "uri": "https://www.scipy.org/scipylib/mailing-lists.html",
+    "image_file": "scipy.png",
+    "summary": "The mailing lists are our primary community forum. This is where we organize projects, announce new releases, plan future directions, and give and receive user support.",
+    "banner": "https://docs.scipy.org/doc/scipy-0.10.1/reference/_static/scipyshiny_small.png"
+  },
+  {
+    "tags": [
+      "social"
+    ],
+    "title": "Numfocus",
+    "uri": "https://www.numfocus.org/",
+    "image_file": "numfocus.png",
+    "summary": "NumFOCUS is a 501(c)(3) nonprofit that supports and promotes world-class, innovative, open source scientific software.  The mission of NumFOCUS is to promote sustainable high-level programming languages, open code development, and reproducible scientific research. We accomplish this mission through our educational programs and events as well as through fiscal sponsorship of open source data science projects. We aim to increase collaboration and communication within the scientific computing community.",
+    "banner": "http://www.numfocus.org/uploads/6/0/6/9/60696727/1457562110.png"
+  },
+  {
+    "tags": [
+      "documentation"
+    ],
+    "title": "Anaconda Cloud Documentation",
+    "uri": "https://docs.anaconda.com/anaconda-cloud/",
+    "image_file": "anaconda.png",
+    "summary": "Anaconda Cloud is a package management service that makes it easy to find, access, store and share public and private notebooks, environments, and conda and PyPI packages, and to keep up with updates made to the packages and environments you're using.  You can build packages using the Anaconda client command line interface (CLI), then manually or automatically upload the packages to Anaconda Cloud to quickly share with others or access yourself from anywhere.",
+    "banner": "https://www.continuum.io/sites/default/files/anaconda_logo.png"
+  },
+  {
+    "tags": [
+      "documentation"
+    ],
+    "title": "Anaconda Documentation",
+    "uri": "https://docs.anaconda.com/anaconda/",
+    "image_file": "anaconda.png",
+    "summary": "Anaconda is an easy-to-install free package manager, environment manager, Python distribution, and collection of over 720 open source packages offering free community support.",
+    "banner": "https://www.continuum.io/sites/default/files/anaconda_logo.png"
+  },
+  {
+    "tags": [
+      "documentation"
+    ],
+    "title": "Anaconda Navigator Documentation",
+    "uri": "https://docs.anaconda.com/anaconda/navigator/",
+    "image_file": "anaconda.png",
+    "summary": "Desktop graphical user interface included in Anaconda that allows you to launch applications and easily manage conda packages, environments and channels.",
+    "banner": "https://www.continuum.io/sites/default/files/anaconda_logo.png"
+  },
+  {
+    "tags": [
+      "social"
+    ],
+    "title": "Anaconda Developer Blog",
+    "uri": "https://www.anaconda.com/blog/developer-blog/",
+    "image_file": "anaconda.png",
+    "summary": "Keep in touch with the latest technologies and tools coming out of Continuum Analytics.  The nitty gritty about the status and development challenged of your favorite open source Python tools",
+    "banner": "https://www.continuum.io/sites/default/files/anaconda_logo.png"
+  },
+  {
+    "tags": [
+      "documentation"
+    ],
+    "title": "Using MRO or R with Conda",
+    "uri": "https://conda.io/docs/user-guide/tasks/use-r-with-conda.html",
+    "image_file": "anaconda.png",
+    "summary": "With a single conda command you can easily install the R programming language and over 80 of the most used R packages for data science. Conda helps you keep your packages and dependencies up to date.",
+    "banner": "https://www.continuum.io/sites/default/files/anaconda_logo.png"
+  },
+  {
+    "tags": [
+      "documentation"
+    ],
+    "title": "Microsoft R Open: The Enhanced R Distribution",
+    "uri": "https://mran.microsoft.com/open",
+    "image_file": "microsoft-r-open.png",
+    "summary": "Microsoft R Open is the enhanced distribution of R from Microsoft Corporation. It is a complete open source platform for statistical analysis and data science.",
+    "banner": "https://mran.microsoft.com/assets/img/ClarkHead.png"
+  },
+  {
+    "tags": [
+      "documentation"
+    ],
+    "title": "The Comprehensive R Archive Network (CRAN)",
+    "uri": "https://cran.r-project.org/",
+    "image_file": "r.png",
+    "summary": "CRAN is a network of ftp and web servers around the world that store identical, up-to-date, versions of code and documentation for R.",
+    "banner": "https://cran.r-project.org/Rlogo.svg"
+  },
+  {
+    "tags": [
+      "documentation"
+    ],
+    "title": "The Python Package Index (PyPI)",
+    "uri": "https://pypi.org/",
+    "image_file": "python.png",
+    "summary": "The Python Package Index is a repository of software for the Python programming language. ",
+    "banner": "https://pypi.python.org/static/images/python-logo.png"
+  },
+  {
+    "tags": [
+      "documentation"
+    ],
+    "title": "Dask documentation",
+    "uri": "https://dask.pydata.org/en/latest/",
+    "image_file": "dask.png",
+    "summary": "Dask is a flexible parallel computing library for analytic computing.",
+    "banner": "https://www.continuum.io/sites/default/files/anaconda_logo.png"
+  },
+  {
+    "tags": [
+      "documentation"
+    ],
+    "title": "Conda & Conda-Build",
+    "uri": "https://conda.io",
+    "image_file": "conda.png",
+    "summary": "Package, dependency and environment management for any language; Python, R, Ruby, Lua, Scala, Java, JavaScript, C/ C++, FORTRAN",
+    "banner": "https://www.continuum.io/sites/default/files/anaconda_logo.png"
+  },
+  {
+    "tags": [
+      "documentation"
+    ],
+    "title": "Jupyter documentation",
+    "uri": "http://jupyter.org/documentation.html",
+    "image_file": "jupyter.png",
+    "summary": "Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.",
+    "banner": "https://www.continuum.io/sites/default/files/anaconda_logo.png"
+  },
+  {
+    "tags": [
+      "documentation"
+    ],
+    "title": "Spyder documentation",
+    "uri": "https://docs.spyder-ide.org/",
+    "image_file": "spyder.png",
+    "summary": "A powerful interactive development environment for the Python language with advanced editing, interactive testing, debugging and introspection features",
+    "banner": "https://www.continuum.io/sites/default/files/anaconda_logo.png"
+  },
+  {
+    "tags": [
+      "documentation"
+    ],
+    "title": "VSCode (python)",
+    "uri": "https://code.visualstudio.com/docs/languages/python",
+    "image_file": "vscode.png",
+    "summary": "Working with Python in Visual Studio Code, using the Microsoft Python extension, is simple, fun, and productive. The extension leverages all of VS Code's power to provide auto complete and IntelliSense, linting, debugging, and unit testing, along with control over your Python environments.",
+    "banner": "https://www.continuum.io/sites/default/files/anaconda_logo.png"
+  },
+  {
+    "tags": [
+      "documentation"
+    ],
+    "title": "Orange documentation",
+    "uri": "https://orange.biolab.si/docs/",
+    "image_file": "orange.png",
+    "summary": "Open source machine learning and data visualization for novice and expert. Interactive data analysis workflows with a large toolbox.",
+    "banner": "https://www.continuum.io/sites/default/files/anaconda_logo.png"
+  }
+]

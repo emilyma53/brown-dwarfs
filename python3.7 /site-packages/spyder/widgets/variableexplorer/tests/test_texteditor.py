@@ -1,0 +1,49 @@
+# -*- coding: utf-8 -*-
+#
+# Copyright © Spyder Project Contributors
+# Licensed under the terms of the MIT License
+#
+
+"""
+Tests for texteditor.py
+"""
+
+# Test library imports
+import pytest
+
+# Local imports
+from spyder.py3compat import PY3
+from spyder.widgets.variableexplorer.texteditor import TextEditor
+
+
+TEXT = """01234567890123456789012345678901234567890123456789012345678901234567890123456789
+dedekdh elkd ezd ekjd lekdj elkdfjelfjk e"""
+
+
+@pytest.fixture
+def texteditor(qtbot):
+    """Set up TextEditor."""
+    texteditor = TextEditor(TEXT)
+    qtbot.addWidget(texteditor)
+    return texteditor
+
+
+def test_texteditor(texteditor):
+    """Run TextEditor dialog."""
+    texteditor.show()
+    assert texteditor
+    dlg_text = texteditor.get_value()
+    assert TEXT == dlg_text
+
+
+@pytest.mark.skipif(PY3, reason="It makes no sense in Python 3")
+def test_texteditor_setup_and_check():
+    import string
+    dig_its = string.digits
+    translate_digits = string.maketrans(dig_its,len(dig_its)*' ')
+    editor = TextEditor(None)
+    assert not editor.setup_and_check(translate_digits)
+
+
+if __name__ == "__main__":
+    pytest.main()

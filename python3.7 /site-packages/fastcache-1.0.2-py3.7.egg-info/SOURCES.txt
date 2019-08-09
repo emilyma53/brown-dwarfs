@@ -1,0 +1,13 @@
+setup.cfg
+setup.py
+fastcache/__init__.py
+fastcache/benchmark.py
+fastcache.egg-info/PKG-INFO
+fastcache.egg-info/SOURCES.txt
+fastcache.egg-info/dependency_links.txt
+fastcache.egg-info/top_level.txt
+fastcache/tests/__init__.py
+fastcache/tests/test_clrucache.py
+fastcache/tests/test_functools.py
+fastcache/tests/test_thread.py
+src/_lrucache.c

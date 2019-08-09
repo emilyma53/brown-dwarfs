@@ -1,0 +1,28 @@
+Metadata-Version: 1.2
+Name: distributed
+Version: 1.26.0
+Summary: Distributed scheduler for Dask
+Home-page: https://distributed.readthedocs.io/en/latest/
+Maintainer: Matthew Rocklin
+Maintainer-email: mrocklin@gmail.com
+License: BSD
+Description: Distributed
+        ===========
+        
+        A library for distributed computation.  See documentation_ for more details.
+        
+        .. _documentation: https://distributed.readthedocs.io/en/latest
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: System :: Distributed Computing
